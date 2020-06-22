@@ -1,1 +1,1 @@
-A simple website I created to convert text to speech using SpeechSynthesis.
+A simple website simply converts text that you write to speech using SpeechSynthesis.
